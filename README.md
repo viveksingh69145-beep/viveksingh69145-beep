@@ -423,8 +423,7 @@ I believe that becoming a strong developer comes from **consistent practice, str
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/viveksingh69145-beep/viveksingh69145-beep/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
+<img src="https://raw.githubusercontent.com/viveksingh69145-beep/viveksingh69145-beep/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
 ---
